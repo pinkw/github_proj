@@ -8,3 +8,4 @@ print 'you have know how to clone project from github to local '
 # then try to push this file to github
 # print 'just use git then add to respository' error
 # use refactor push this file to respository
+# when you renew this file, use git to commit it, thrn you can get latest file from github
